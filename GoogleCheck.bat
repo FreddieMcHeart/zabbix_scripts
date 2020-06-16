@@ -1,0 +1,1 @@
+powershell -ex bypass -c "Get-Process -Name chrome | Measure-Object" 
